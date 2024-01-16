@@ -20,9 +20,9 @@ Audio: Realtek Audio Controller
 macOS Version: macOS Ventura
 # Not working
 Wifi, Bluetooth (because i have no wifi cards uwu)
-# Installation guide
-## Step 1:
-Generate SMBIOS via [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and use **iMacPro1,1** for it
+# Note
+This config does not contain SMBIOS. Please generate SMBIOS via [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and use **iMacPro1,1** for it
+
 
  
 
