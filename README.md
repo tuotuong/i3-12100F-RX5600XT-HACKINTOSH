@@ -22,7 +22,7 @@ macOS Version: macOS Ventura
 Wifi, Bluetooth (because i have no wifi cards uwu)
 # Installation guide
 ## Step 1:
-Generate SMBIOS via [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and use **iMac1,1** for it
+Generate SMBIOS via [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and use **iMacPro1,1** for it
 
  
 
