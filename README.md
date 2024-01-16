@@ -15,13 +15,15 @@ WLAN: None
 
 Bluetooth: None
 
-Audio: Realtek Audio Controller
+Audio: Realtek ALC897 Audio Controller
 
 macOS Version: macOS Ventura
 # Not working
-Wifi, Bluetooth (because i have no wifi cards uwu)
+- Wifi, Bluetooth (because i have no wifi cards uwu)
 # Note
-This config does not contain SMBIOS. Please generate SMBIOS via [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and use **iMacPro1,1** for it
+This config **does not** contain SMBIOS. Please generate SMBIOS via [GenSMBIOS](https://github.com/corpnewt/GenSMBIOS) and use **iMacPro1,1** for it.
+
+If the USB ports on the case are not working, please use [USBToolBox](https://github.com/USBToolBox/tool) to remap them.
 
 
  
